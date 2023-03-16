@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ikwuje Peace</h1>
-<h3 align="center">A passionate backend developer and Technical writer from Africa/Nigeria</h3>
+<h3 align="center">A passionate backend developer and Technical writer from Africa/Nigeria. I play the guitar too</h3>
 
 - 🔭 I’m currently working on **An ecommerce webapp**
 
