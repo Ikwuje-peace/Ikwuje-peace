@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **An ecommerce webapp**
 
-- 🌱 I’m currently learning **Machine learning on Udacity**
+- 🌱 I’m currently learning **Flask**
 
 - 👯 I’m looking to collaborate on **backend projects**
 
