@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋</h1>
-<h3 align="center"I am Ikwuje Peace, a self-taught backend engineer and technical writer from Africa/Nigeria. I love turning ideas into functional backend systems and documenting technical concepts to help newbies understand tech better. I have over 2 years of experience designing and building software to enhance end-user functionality.</h3>
+<p align="center">I am **Ikwuje Peace**, a self-taught backend engineer and technical writer from Africa/Nigeria. I love turning ideas into functional backend systems and documenting technical concepts to help newbies understand tech better. I have over 2 years of experience designing and building software to enhance end-user functionality.</p>
 
 - 🔭 I’m currently working on **An ecommerce webapp**
 
