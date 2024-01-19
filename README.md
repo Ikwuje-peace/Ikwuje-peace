@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ikwuje Peace</h1>
-<h3 align="center">A passionate backend developer and Technical writer from Africa/Nigeria. I play the guitar too</h3>
+<h1 align="center">Hi👋</h1>
+<h3 align="center"I am Ikwuje Peace, a self-taught backend engineer and technical writer from Africa/Nigeria. I love turning ideas into functional backend systems and documenting technical concepts to help newbies understand tech better. I have over 2 years of experience designing and building software to enhance end-user functionality.</h3>
 
 - 🔭 I’m currently working on **An ecommerce webapp**
 
@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **Devops and Machine learning**
 
-- 📝 I regularly write articles on [https://ikwujepeace.medium.com/](https://ikwujepeace.medium.com/)
+- 📝 I run a blog where I talk about tech from time to time.[https://ikwujepeace.medium.com/](https://ikwujepeace.medium.com/)
 
-- 💬 Ask me about **Python, Django, Technical Writing**
+- 💬 You can also ask me about anything on **Python, Backend Development, APIs, & Django** I will be happy to help!
 
 - 📫 How to reach me **peaceikwuje21@gmail.com**
 
