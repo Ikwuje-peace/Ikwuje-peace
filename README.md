@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋</h1>
-<p align="center">I am <b>Ikwuje Ochanya Peace</b>, a self-taught backend engineer and technical writer from Africa/Nigeria. I love turning ideas into functional backend systems and documenting technical concepts to help newbies understand tech better. I have over 2 years of experience designing and building software to enhance end-user functionality.</p>
+<p align="center">I am <b>Ikwuje Ochanya Peace</b>, a self-taught backend engineer and technical writer from Africa/Nigeria. I love turning ideas into functional backend systems and documenting technical concepts to help newbies understand tech better. I have over 3 years of experience designing and building software to enhance end-user functionality.</p>
 
 - 🔭 I’m currently working on **An A.I assistant using pytorch**
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **backend projects**
 
-- 🤝 I’m looking for help with **Devops and Machine learning**
+- 🤝 I’m looking for help with **A.I and Machine learning**
 
 - 📝 I run a blog where I talk about tech from time to time.[https://ikwujepeace.medium.com/](https://ikwujepeace.medium.com/)
 
