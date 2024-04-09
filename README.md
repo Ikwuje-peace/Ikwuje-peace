@@ -11,7 +11,7 @@
 
 - 📝 I run a blog where I talk about tech from time to time.[https://ikwujepeace.medium.com/](https://ikwujepeace.medium.com/)
 
-- 💬 You can also ask me about anything on **Python, Backend Development, Machine Learning, APIs, & Django** I will be happy to help!
+- 💬 You can also ask me about anything on **Python, Backend Development, Technical Writing, Machine Learning, APIs, & Django** I will be happy to help!
 
 - 📫 How to reach me **peaceikwuje21@gmail.com**
 
