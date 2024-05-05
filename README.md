@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning with Python**
 
-- 👯 I’m looking to collaborate on **backend projects**
+- 👯 I’m looking to collaborate on **backend projects and Machine Learning projects**
 
 - 🤝 I’m looking for help with **A.I and Machine learning**
 
