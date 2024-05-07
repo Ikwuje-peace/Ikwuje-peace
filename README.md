@@ -2,6 +2,7 @@
 <p align="center">I am <b>Ikwuje Ochanya Peace</b>, a backend engineer and technical writer from Africa/Nigeria. I love turning ideas into functional backend systems and documenting technical concepts to help newbies, understand tech better. I have over 3 years of experience designing and building software to enhance end-user functionality.</p>
 
 - 🔭 I’m currently working on **Weather Forecast Using A.I**
+- I am also Learning best programming on Udacity 
 
 - 🌱 I’m currently learning **Machine Learning with Python**
 
