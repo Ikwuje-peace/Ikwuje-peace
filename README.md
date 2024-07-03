@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋</h1>
-<p align="center">I am <b>Ikwuje Ochanya Peace</b>, a backend engineer and technical writer from Africa/Nigeria. I love turning ideas into functional backend systems and documenting technical concepts to help newbies, and curious minds understand tech better. I have over 3 years of experience designing and building software to enhance end-user functionality.I also love fashion, the comfortable type of fashion😉</p>
+<p align="center">I am <b>Ikwuje Peace</b>, a backend developer and technical writer from Africa/Nigeria. I love turning ideas into functional backend systems and documenting technical concepts to help newbies, and curious minds understand tech better. I have over 3 years of experience designing and building software to enhance end-user functionality.I also love fashion, the comfortable type of fashion😉</p>
 
 - 🔭 I’m currently working on **A One Month Code Consistency Challenge. Check out the July repository**
 - I am also Learning best programming on Udacity 
