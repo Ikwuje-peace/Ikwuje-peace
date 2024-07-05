@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **backend projects and Machine Learning projects**
 
-- 🤝 I’m looking for help with **A.I and Machine learning**
+- 🤝 I’m looking for help with **A.I and Machine learning and DevOps**
 
 - 📝 I run a blog where I talk about tech from time to time.[https://ikwujepeace.medium.com/](https://ikwujepeace.medium.com/)
 
